@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> Katalog Film </string>
+
+    <string name="tv_show"> Acara TV </string>
+    <string name="movie"> Film</string>
+    <string name="desc">Deskripsi</string>
+
+    <string-array name="movie_title">
+        <item> Alita: Battle Angel </item>
+        <item> Aquaman </item>
+        <item> Creed II </item>
+        <item> Binatang Buas Fantastis: Kejahatan Grindelwald </item>
+        <item> Kaca </item>
+        <item> Cara Melatih Naga Anda: Dunia Tersembunyi </item>
+        <item> Avengers: Perang Infinity </item>
+        <item> Ralph Menghancurkan Internet </item>
+        <item> Rupinder Gandhi 2 - The Robinhood </item>
+        <item> Spider-Man: Into the Spider-Verse </item>
+    </string-array>
+
+    <string-array name = "movie_desc">
+        <item> Ketika Alita terbangun tanpa ingatan siapa dia di dunia masa depan yang tidak dia kenal, dia dibawa oleh Ido, seorang dokter yang penuh kasih yang menyadari bahwa di suatu tempat di cangkang cyborg yang ditinggalkan ini adalah hati dan jiwa seorang wanita muda dengan masa lalu yang luar biasa. </item>
+        <item> Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan dunia. Yang menghalangi jalannya adalah Arthur Curry, lelaki setengah manusia Orms, setengah lelaki Atlantis dan pewaris sejati takhta. </item>
+        <item> Antara kewajiban pribadi dan pelatihan untuk pertarungan besar berikutnya melawan lawan yang memiliki ikatan dengan masa lalu keluarganya, Adonis Creed menghadapi tantangan hidupnya. </item>
+        <item> Gellert Grindelwald telah lolos dari hukuman penjara dan mulai mengumpulkan pengikut untuk tujuannya — meninggikan para penyihir di atas semua makhluk non-magis. Satu-satunya yang mampu menghentikannya adalah penyihir yang pernah ia sebut teman terdekatnya, Albus Dumbledore. Namun, Dumbledore perlu mencari bantuan dari penyihir yang pernah menggagalkan Grindelwald sebelumnya, mantan muridnya Newt Scamander, yang setuju untuk membantu, tidak menyadari bahaya yang ada di depan. Garis ditarik saat cinta dan kesetiaan diuji, bahkan di antara teman dan keluarga yang paling sejati, di dunia sihir yang semakin terpecah. </item>
+        <item> Dalam serangkaian pertemuan yang meningkat, mantan penjaga keamanan David Dunn menggunakan kemampuan supernaturalnya untuk melacak Kevin Wendell Crumb, seorang lelaki terganggu yang memiliki dua puluh empat kepribadian. Sementara itu, kehadiran bayangan Elia Price muncul sebagai seorang orkestra yang menyimpan rahasia penting bagi keduanya. </item>
+        <item> Saat Hiccup memenuhi mimpinya untuk menciptakan utopia naga yang damai, penemuan Toothless tentang pasangan yang liar dan sulit ditangkap menarik Night Fury pergi. Saat bahaya memuncak di rumah dan pemerintahan Hiccup sebagai kepala desa diuji, baik naga dan pengendara harus membuat keputusan yang mustahil untuk menyelamatkan jenis mereka. </item>
+        <item> Saat Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala sesuatu yang Avengers telah perjuangkan telah mengarah ke saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih tidak pasti. </item>
+        <item> Orang jahat video game Ralph dan rekan-rekannya yang tidak sesuai Vanellope von Schweetz harus mengambil risiko dengan bepergian ke World Wide Web untuk mencari bagian pengganti untuk menyelamatkan video game Vanellopes, Sugar Rush. Dalam perjalanan, Ralph dan Vanellope mengandalkan di internet, para netizen membantu menavigasi jalan mereka, termasuk seorang pengusaha bernama Yesss, yang merupakan algoritma kepala dan jantung dan jiwa situs pembuat tren BuzzzTube. </item>
+        <item> Ini adalah kisah tentang seorang pria pemberani yang berjuang dan menang melawan segala rintangan, Sarpanch Rupinder Singh Gandhi, seorang olahragawan yang produktif, pemimpin yang berani, dan teman sejati. Film ini menunjukkan bagaimana keadaan dan situasi mengubahnya menjadi "Sesuatu-lain" ketika ia dan teman-temannya mengambil keputusan yang akhirnya menjadikan mereka Penjahat. Pria yang hidup untuk orang lain dan tidak pernah khawatir apa yang disebut ~ Robinhood or a Gangser </item>
+        <item> Miles Morales menyulap hidupnya antara menjadi siswa sekolah menengah dan menjadi manusia laba-laba. Saat Wilson Kingpin Fisk menggunakan collider super, yang lain dari seluruh Spider-Verse diangkut ke dimensi ini. </item>
+    </string-array>
+
+    <string-array name="movie_photo">
+        <item>@drawable/poster_alita</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_crimes</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_how_to_train</item>
+        <item>@drawable/poster_infinity_war</item>
+        <item>@drawable/poster_ralph</item>
+        <item>@drawable/poster_robin_hood</item>
+        <item>@drawable/poster_spiderman</item>
+    </string-array>
+
+    <string-array name = "tv_title">
+        <item> Panah </item>
+        <item> Dragon Ball </item>
+        <item> Fairy Tail </item>
+        <item> Family Guy </item>
+        <item> Flash </item>
+        <item> Gotham </item>
+        <item> Tangan Besi </item>
+        <item> Naruto </item>
+        <item> SuperGirl </item>
+        <item> The Simpsons </item>
+    </string-array>
+
+    <string-array name = "tv_desc">
+        <item> Playboy miliarder manja, Oliver Queen, hilang dan diduga tewas saat kapal pesiarnya hilang di laut. Dia kembali lima tahun kemudian seorang pria yang berubah, bertekad untuk membersihkan kota sebagai main hakim sendiri bersenjatakan busur. </item>
+        <item> Dahulu di gunung, seorang master pertempuran yang dikenal sebagai Gohan menemukan seorang anak aneh yang ia beri nama Goku. Gohan membesarkannya dan melatih Goku dalam seni bela diri sampai dia mati. Bocah muda dan sangat kuat itu sendirian, tetapi mudah dikelola. Kemudian suatu hari, Goku bertemu dengan seorang gadis remaja bernama Bulma, yang pencariannya untuk Bola Naga mistis membawanya ke rumah Goks. Bersama-sama, mereka berangkat untuk menemukan ketujuh dan mengabulkan keinginannya. </item>
+        <item> Lucy adalah gadis berusia 17 tahun, yang ingin menjadi penyihir penuh. Suatu hari ketika mengunjungi Kota Harujion, dia bertemu Natsu, seorang pemuda yang mudah sakit karena segala jenis transportasi. Tapi Natsu bukan anak biasa, dia anggota dari salah satu serikat penyihir paling terkenal di dunia: Fairy Tail. </item>
+        <item> Serial animasi Freakin Sweet yang sakit, terpelintir, tidak tepat secara politis, dan menampilkan petualangan keluarga Griffin yang disfungsional. Peter yang kikuk dan Lois yang sudah lama menderita memiliki tiga anak. Stewie (bayi yang cerdas tetapi sadis yang bertekad membunuh ibunya dan mengambil alih dunia), Meg (yang tertua, dan merupakan gadis yang paling tidak populer di kota) dan Chris (anak tengah, dia tidak terlalu cerdas tetapi memiliki hasrat untuk film) ). Anggota terakhir keluarga itu adalah Brian - anjing yang bisa bicara dan lebih dari sekadar hewan peliharaan, ia menjaga Stewie, sambil menghirup Martinis dan memilah-milah masalah hidupnya sendiri. </item>
+        <item> Setelah akselerator partikel menyebabkan badai hebat, Penyelidik CSI Barry Allen disambar petir dan jatuh koma. Beberapa bulan kemudian dia terbangun dengan kekuatan kecepatan super, memberinya kemampuan untuk bergerak melalui Central City seperti malaikat penjaga yang tak terlihat. Meskipun awalnya senang dengan kekuatan barunya, Barry terkejut menemukan bahwa dia bukan satu-satunya manusia meta yang diciptakan setelah ledakan akselerator dan tidak semua orang menggunakan kekuatan baru mereka untuk kebaikan. Barry bermitra dengan S.T.A.R. Lab dan mendedikasikan hidupnya untuk melindungi yang tidak bersalah. Untuk saat ini, hanya beberapa teman dekat dan rekan yang tahu bahwa Barry secara harfiah adalah manusia tercepat yang hidup, tetapi itu tidak akan lama sebelum dunia mengetahui apa yang menjadi Barry Allen The Flash. </item>
+        <item> Sebelum ada Batman, ada GOTHAM.
+            Semua orang tahu nama Komisaris Gordon. Dia adalah salah satu musuh terbesar dunia kejahatan, seorang pria yang reputasinya identik dengan hukum dan ketertiban. Tapi apa yang diketahui tentang kisah Gordons dan kenaikannya dari detektif pemula ke Komisaris Polisi? Apa yang diperlukan untuk menavigasi berbagai lapisan korupsi yang diam-diam memerintah Kota Gotham, tempat bertelurnya penjahat paling ikonik di dunia? Dan keadaan apa yang menciptakan mereka - persona yang lebih besar dari kehidupan yang akan menjadi Catwoman, The Penguin, The Riddler, Two-Face dan The Joker? </item>
+        <item> Danny Rand muncul kembali 15 tahun setelah dianggap mati. Sekarang, dengan kekuatan Iron Fist, ia berusaha untuk merebut kembali masa lalunya dan memenuhi takdirnya. </item>
+        <item> Binatang buas yang kuat yang dikenal sebagai Sembilan-ekor menyerang Konoha, desa daun tersembunyi di Tanah Api, salah satu dari Lima Negara Shinobi Besar di Dunia Ninja. Sebagai tanggapan, pemimpin Konoha pada saat itu, Hokage Keempat, menyegel rubah di dalam tubuh Naruto Uzumaki yang baru lahir, membuat Naruto menjadi pembawa binatang; Selama proses ini biaya Hokage keempat hidupnya, membutuhkan Hokage Ketiga untuk kembali dari pensiun untuk menjadi pemimpin Konoha lagi. Sebagai seorang anak, Naruto dijauhi oleh komunitas Konoha, yang memperlakukan Naruto seolah-olah dia adalah Sembilan-ekor yang menyerang desa. </item>
+        <item> Kara Zor-El yang berusia 24 tahun, yang ditangkap oleh keluarga Danvers ketika dia berusia 13 tahun setelah diusir dari Krypton, harus belajar merangkul kekuatannya setelah sebelumnya menyembunyikannya. Orang-orang Danvers mengajarinya untuk berhati-hati dengan kekuatannya, sampai dia harus mengungkapkannya selama bencana yang tak terduga, menempatkannya dalam perjalanan kepahlawanannya. </item>
+        <item> Bertempat di Springfield, kota rata-rata di Amerika, pertunjukan ini berfokus pada kejenakaan dan petualangan sehari-hari keluarga Simpson; Homer, Marge, Bart, Lisa dan Maggie, serta ribuan pemain virtual. Sejak awal, serial ini telah menjadi ikon budaya pop, menarik ratusan selebriti menjadi bintang tamu. Acara ini juga menjadi terkenal karena satirnya yang tak kenal takut terhadap kehidupan politik, media, dan Amerika secara umum. </item>
+    </string-array>
+    <string-array name="tv_photo">
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_dragon_ball</item>
+        <item>@drawable/poster_fairytail</item>
+        <item>@drawable/poster_family_guy</item>
+        <item>@drawable/poster_flash</item>
+        <item>@drawable/poster_gotham</item>
+        <item>@drawable/poster_iron_fist</item>
+        <item>@drawable/poster_naruto_shipudden</item>
+        <item>@drawable/poster_supergirl</item>
+        <item>@drawable/poster_the_simpson</item>
+    </string-array>
+    <string name="change_language_settings">Ubah Bahasa</string>
+</resources>

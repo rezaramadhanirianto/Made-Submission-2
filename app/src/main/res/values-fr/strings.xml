@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> Catalogue de films </string>
+     <string name = "tv_show"> Série télévisée </string>
+     <string name = "movie"> Movié </string>
+    <string name="desc">Descriptioné</string>
+    <string-array name = "movie_title">
+        <item> Alita: lange de la bataille </item>
+        <item> Aquaman </item>
+        <item> Creed II </item>
+        <item> Bêtes fantastiques: les crimes de Grindelwald </item>
+        <item> Verre </item>
+        <item> Comment entraîner votre dragon: le monde caché </item>
+        <item> Avengers: Infinity War </item>
+        <item> Ralph casse lInternet </item>
+        <item> Rupinder Gandhi 2 - Le Robinhood </item>
+        <item> Spider-Man: dans le Spider-Verse </item>
+    </string-array>
+
+    <string-array name="movie_photo">
+        <item>@drawable/poster_alita</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_crimes</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_how_to_train</item>
+        <item>@drawable/poster_infinity_war</item>
+        <item>@drawable/poster_ralph</item>
+        <item>@drawable/poster_robin_hood</item>
+        <item>@drawable/poster_spiderman</item>
+    </string-array>
+    <string-array name = "movie_desc">
+        <item> Quand Alita se réveille sans se souvenir de qui elle est dans un monde à venir quelle ne reconnaît pas, elle est prise en charge par Ido, un médecin compatissant qui réalise que quelque part dans cette coquille de cyborg abandonnée se trouve le cœur et lâme dune jeune femme. avec un passé extraordinaire. </item>
+            <item> Autrefois foyer de la civilisation la plus avancée sur Terre, Atlantis est maintenant un royaume sous-marin dirigé par le roi orm assoiffé de pouvoir. Avec une vaste armée à sa disposition, Orm prévoit de conquérir les derniers habitants de locéan, puis le monde de surface. Arthur Curry, frère orms mi-homme, mi-atlante et véritable héritier du trône, se tient debout. </item>
+        <item> Entre obligations personnelles et entraînement pour son prochain grand combat contre un adversaire ayant des liens avec son passé familial, Adonis Creed relève le défi de sa vie. </item>
+            <item> Gellert Grindelwald a échappé à lemprisonnement et a commencé à rassembler des adeptes à sa cause - élevant les sorciers au-dessus de tous les êtres non magiques. Le seul capable de le faire cesser est le sorcier quil a déjà appelé son plus proche ami, Albus Dumbledore. Cependant, Dumbledore devra demander laide du sorcier qui avait déjà déjoué Grindelwald, son ancien élève, Newt Scamander, qui accepte de laider, ignorant les dangers qui lattendent. Les lignes sont tracées alors que lamour et la fidélité sont mis à lépreuve, même parmi les plus vrais amis de la famille, dans un monde sorcier de plus en plus divisé. </item>
+            <item> Dans une série de rencontres en escalade, lancien agent de sécurité David Dunn utilise ses capacités surnaturelles pour suivre Kevin Wendell Crumb, un homme perturbé qui a vingt-quatre personnalités. Pendant ce temps, la présence dans lombre dElijah Price apparaît comme un orchestrateur qui détient des secrets essentiels pour les deux hommes. </item>
+            <item> Alors que Hiccup réalise son rêve de créer une utopie pacifique de dragon, la découverte par Toothless d’un compagnon insaisissable et insaisissable attire le Fureur de la nuit. Quand le danger monte à la maison et que le règne de Hiccup en tant que chef de village est mis à lépreuve, dragon et son cavalier doivent prendre des décisions impossibles pour sauver leur espèce. </item>
+            <item> Alors que les Avengers et leurs alliés ont continué à protéger le monde contre les menaces trop grandes pour être gérées par un seul héros, un nouveau danger a émergé de lombre cosmique: Thanos. Despote dinfamie intergalactique, son objectif est de rassembler les six pierres Infinity, des artefacts dune puissance inimaginable, et de les utiliser pour infliger sa volonté tordue à toute la réalité. Tout ce pour quoi les Vengeurs se sont battus a abouti jusquà présent - le destin de la Terre et de lexistence elle-même na jamais été aussi incertain. </item>
+        <item> Jeu vidéo Le méchant Ralph et son compatriote Vanellope von Schweetz doivent tout risquer sur le World Wide Web à la recherche dune pièce de rechange pour sauver le jeu vidéo Vanellopes, Sugar Rush.Aux égards, Ralph et Vanellope comptent sur les citoyens d’Internet, les internautes aident à naviguer dans leur chemin, y compris un entrepreneur nommé Yesss, qui est l’algorithme principal et le cœur du site de création de tendances BuzzzTube. </item>
+        <item> C’est l’histoire d’un homme courageux, Sarpanch Rupinder Singh Gandhi, sportif prolifique, leader audacieux et véritable ami qui s’est battu et a vaincu contre toute attente. Ce film montre comment les circonstances et les situations le transforment en "Quelque chose dautre" quand lui et ses amis prennent des décisions qui finissent par les rendre hors-la-loi. Lhomme qui vivait pour dautres personnes et ne sest jamais inquiété de ce quil sappelait ~ Robinhood ou un Gangser </item>
+            <item> Miles Morales jongle entre le lycéen et lhomme-araignée. Lorsque Wilson Kingpin Fisk utilise un super collisionneur, les autres membres du Spider-Verse sont transportés dans cette dimension. </item>
+    </string-array>
+    <string-array name = "tv_title">
+        <item> Arrow </item>
+        <item> Dragon Ball </item>
+        <item> Fairy Tail </item>
+        <item> Family Guy </item>
+        <item> Le Flash </item>
+        <item> Gotham </item>
+        <item> Poing de fer </item>
+        <item> Naruto </item>
+        <item> SuperGirl </item>
+        <item> Les Simpson </item>
+    </string-array>
+
+    <string-array name = "tv_desc">
+        <item> Oliver Queen, un playboy milliardaire gâté, a disparu et est présumé mort lorsque son yacht est perdu en mer. Il revient cinq ans plus tard en homme changé, déterminé à nettoyer la ville comme un militant à capuchon armé d’un arc. </item>
+            <item> Il y a longtemps, dans les montagnes, un maître des combats connu sous le nom de Gohan a découvert un garçon étrange quil a nommé Goku. Gohan la élevé et a formé Goku aux arts martiaux jusquà sa mort. Le jeune et très fort garçon était seul, mais facilement géré. Puis un jour, Goku rencontra une adolescente nommée Bulma, à la recherche de la mystique Dragon Balls qui l’emmenait à la maison de Goks. Ensemble, ils partent à la recherche des sept personnes et réalisent son souhait. </item>
+            <item> Lucy est une jeune fille de 17 ans qui veut devenir un mage à part entière. Un jour, en se rendant dans la ville de Harujion, elle rencontre Natsu, un jeune homme qui tombe facilement malade, quel que soit le moyen de transport utilisé. Mais Natsu n’est pas un gamin ordinaire, il est membre de l’une des plus infâmes guildes de mages: Fairy Tail. </item>
+            <item> Série animée Malade, tordue, politiquement incorrecte et Freakin Sweet présentant les aventures de la famille dysfonctionnelle Griffin. Bumbling Peter et Lois, qui souffrent depuis longtemps, ont trois enfants. Stewie (un bébé brillant mais sadique résolu à tuer sa mère et à conquérir le monde), Meg (la plus âgée, et la fille la plus impopulaire de la ville) et Chris (lenfant du milieu, nest pas très brillant mais a une passion pour le cinéma ) Le dernier membre de la famille est Brian - un chien qui parle et bien plus qu’un animal de compagnie, il garde Stewie sous contrôle en sirotant des Martinis et en réglant ses propres problèmes de vie. </item>
+            <item> Après quun accélérateur de particules ait provoqué une tempête extraordinaire, Barry Allen, enquêteur de CSI, est frappé par la foudre et tombe dans le coma. Quelques mois plus tard, il se réveille avec la puissance de la super vitesse, lui permettant de se déplacer dans Central City comme un ange gardien invisible. Bien quexcité au départ par ses nouveaux pouvoirs, Barry est choqué de découvrir quil nest pas le seul méta-humain créé après lexplosion de laccélérateur et que tous nutilisent pas leurs nouveaux pouvoirs pour de bon. Barry sassocie à S.T.A.R. Labs et consacre sa vie à protéger linnocent. Pour l’instant, seuls quelques amis proches et associés savent que Barry est littéralement l’homme le plus rapide au monde, mais il ne faudra pas longtemps avant que le monde sache ce que Barry Allen est devenu le Flash. </item>
+        <item> Avant Batman, il y avait GOTHAM.
+                Tout le monde connaît le nom Commissaire Gordon. Il est l’un des plus grands ennemis du monde du crime, un homme dont la réputation est synonyme de loi et d’ordre. Mais que sait-on de lhistoire de Gordons et de son passage de détective recrue au poste de commissaire de police? Qua-t-il fallu pour naviguer dans les multiples couches de corruption qui ont secrètement gouverné Gotham City, la frayère des vilains les plus emblématiques du monde? Et quelles circonstances les ont créés - des personnages plus grands que nature qui deviendraient Catwoman, Le Pingouin, Le Chasseur, Le Double-visage et Le Joker? </item>
+            <item> Danny Rand refait surface 15 ans après sa mort présumée. Maintenant, avec le pouvoir du Poing-de-fer, il cherche à récupérer son passé et à accomplir son destin. </item>
+            <item> Une puissante bête, connue sous le nom de Nine-Tails, attaque Konoha, le village au feuillage caché du pays de feu, lune des cinq grandes nations du Shinobi dans le monde ninja. En réponse, le chef de Konoha à lépoque, le quatrième Hokage, scelle le renard à lintérieur du corps du nouveau-né Naruto Uzumaki, faisant de Naruto un hôte de la bête; Au cours de ce processus, le quatrième Hokage a perdu la vie, obligeant le troisième Hokage à revenir de sa retraite pour pouvoir redevenir dirigeant de Konoha. Enfant, Naruto est boudé par la communauté Konoha, qui le traite comme sil était les Neuf-Queues qui ont attaqué le village. </item>
+            <item> Kara Zor-El, 24 ans, qui a été prise en charge par la famille Danvers à lâge de 13 ans après avoir été renvoyée de Krypton, doit apprendre à embrasser ses pouvoirs après les avoir cachées auparavant. Les Danvers lui apprennent à faire attention à ses pouvoirs jusquà ce quelle soit obligée de les révéler lors dune catastrophe inattendue, ce qui la mettra dans son voyage dhéroïsme. </item>
+            <item> Situé à Springfield, la ville américaine moyenne, le spectacle se concentre sur les singeries et les aventures quotidiennes de la famille Simpson. Homer, Marge, Bart, Lisa et Maggie, ainsi quune distribution virtuelle de milliers de personnes. Depuis le début, la série est devenue une icône de la culture pop en attirant des centaines de célébrités. La série s’est également illustrée dans son intransigeance satirique sur la politique, les médias et la vie américaine en général. </item>
+    </string-array>
+    <string-array name="tv_photo">
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_dragon_ball</item>
+        <item>@drawable/poster_fairytail</item>
+        <item>@drawable/poster_family_guy</item>
+        <item>@drawable/poster_flash</item>
+        <item>@drawable/poster_gotham</item>
+        <item>@drawable/poster_iron_fist</item>
+        <item>@drawable/poster_naruto_shipudden</item>
+        <item>@drawable/poster_supergirl</item>
+        <item>@drawable/poster_the_simpson</item>
+    </string-array>
+    <string name="change_language_settings">Kara Languaté</string>
+</resources>
